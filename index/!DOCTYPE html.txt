@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pop&Art</title>
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- En-tête avec le titre et le logo du site -->
+    <header>
+        <h1>Pop&Art</h1>
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAY4AAAGRCAYAAAByhFQyAAEAAElEQVR4nLz92Y8nS5bfiX2Ombn/tlgzIvft3rz7vXW36upqNrub..." 
+             alt="Logo Pop Art" style="max-width: 200px; height: auto;">
+        <p>Découvrez la culture pop à travers nos produits uniques</p>
+    </header>
+
+    <!-- Section À propos -->
+    <section id="about">
+        <h2>À propos de nous</h2>
+        <p>Pop&Art est une entreprise de vente d’objets de collection artisanaux liés à la pop culture, réalisée en bois et imprimée en 3D.</p>
+    </section>
+
+    <!-- Section Produits : Mangas -->
+    <section class="product-category">
+        <h2>Mangas</h2>
+        <p>Plongez dans le monde des mangas avec notre sélection variée de titres, des classiques intemporels aux nouveautés populaires.</p>
+    </section>
+
+    <!-- Section Produits : Comics -->
+    <section class="product-category">
+        <h2>Comics</h2>
+        <p>Découvrez les aventures captivantes de vos héros préférés, de Marvel à DC, dans notre collection de comics emblématiques.</p>
+    </section>
+
+    <!-- Section Produits : Affiches Vintage -->
+    <section class="product-category">
+        <h2>Affiches Vintage</h2>
+        <p>Apportez une touche rétro à votre intérieur avec nos affiches vintage inspirées des icônes de la culture pop.</p>
+    </section>
+
+    <!-- Pied de page -->
+    <footer>
+        <p>&copy; 2024 Pop&Art - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
